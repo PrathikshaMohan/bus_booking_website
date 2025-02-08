@@ -1,2 +1,19 @@
-# bus_booking_website
-Dolphin Tours is a user-friendly web application designed to simplify the process of booking bus tickets online. This project focuses on providing a smooth and intuitive experience for users to search for routes, select seats, and book tickets for their journey.
+
+# 🚌 Bus Booking Website
+
+A web-based bus ticket booking system that allows users to search for available buses, book seats, and manage bookings efficiently.
+
+## 🚀 Features
+
+- User registration and login system  
+- Search for buses by date, departure, and destination  
+- Book seats and calculate fare dynamically  
+- View and manage bookings  
+- Admin panel to manage buses and bookings  
+
+## 🏗️ Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP  
+- **Database:** MySQL  
+
