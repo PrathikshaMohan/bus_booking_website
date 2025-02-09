@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
             echo "
 <script type='text/javascript'>
     alert('Successfully submitted');
-    window.location.href = 'home.html';
+    window.location.href = 'index.html';
 </script>";
         } else {
             
@@ -48,7 +48,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 
         <nav>
             <ul>
-                <li><a href="home.html">Home</a></li>
+                <li><a href="index.html">Home</a></li>
                 <li><a href="about.html">About</a></li>
                 <li><a href="contact.php">Contact</a></li>
                 <li><a href="admin.php">Admin</a></li>
@@ -115,7 +115,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
         <div class="footer-col">
             <h4>Quick Links </h4>
             <ul>
-                <li><a href="home.html"> Home </a></li>
+                <li><a href="index.html"> Home </a></li>
                 <li><a href="about.html"> About us </a></li>
 
                 <li><a href="contact.php"> Contact </a></li>
