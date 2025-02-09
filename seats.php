@@ -100,9 +100,9 @@ mysqli_close($con);
         </div>
         <nav>
             <ul>
-                <li><a href="form.html">New Booking</a></li>
+                <li><a href="form.php">New Booking</a></li>
                 
-                <li><a href="home.html">Logout</a></li>
+                <li><a href="index.html">Logout</a></li>
             </ul>
         </nav>
     </header>
@@ -148,7 +148,7 @@ mysqli_close($con);
         <div class="footer-col">
             <h4>Quick Links </h4>
             <ul>
-                <li><a href="home.html"> Home </a></li>
+                <li><a href="index.html"> Home </a></li>
                 <li><a href="about.html"> About us </a></li>
 
                 <li><a href="contact.php"> Contact </a></li>
