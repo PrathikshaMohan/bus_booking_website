@@ -18,7 +18,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         header("Location: seats.php?passenger_id=" . $passenger_id);
         exit();
     } else {
-        header("Location: passform.php?message=Error: " . mysqli_error($con));
+        header("Location: form.php?message=Error: " . mysqli_error($con));
         exit();
     }
 }
